@@ -6,6 +6,6 @@
 // 3. Save + refresh. Leave placeholders for offline local mode.
 
 window.MCSHARE_CONFIG = {
-  SUPABASE_URL: "PASTE_YOUR_SUPABASE_URL_HERE",
-  SUPABASE_ANON_KEY: "PASTE_YOUR_SUPABASE_ANON_KEY_HERE",
+  SUPABASE_URL: "https://wgcrrrmjjbndncookfwl.supabase.co",
+  SUPABASE_ANON_KEY: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6IndnY3Jycm1qamJuZG5jb29rZndsIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTAwNDgyMTEsImV4cCI6MjEwNTYyNDIxMX0.JkavgVHXUEcfUku2kAT2EGuPBmlcHtudF8oxg51KDL4",
 };
